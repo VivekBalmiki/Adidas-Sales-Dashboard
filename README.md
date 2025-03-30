@@ -33,7 +33,7 @@ Adidas aims to empower decision-makers with **data-driven insights** using Power
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/adidas-sales-analysis.git
+   git clone https://github.com/VivekBalmiki/adidas-sales-analysis.git
    ```
 2. **Open the Power BI file** (`.pbix`) to explore the interactive dashboard.
 3. **Analyze the KPIs and visualizations** to gain insights into Adidas' sales performance.
